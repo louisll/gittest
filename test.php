@@ -6,4 +6,4 @@
  * Time: 16:59
  */
 
-echo 'This is the first git file';
+echo 'This is the first git file !';
